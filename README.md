@@ -22,6 +22,7 @@ If it does not work, please download this repository directly as a zip or tar.gz
 ## Example
 Below we provide an example of how to call the funtion BADGE to learn time-varying graphical models from the synthetic data associated with the package. To test the algorithm on your own data, please replace data with your own data when calling BADGE. Note that data is a N x P matrix with N time points and P variables.
 ```r
+library("BADGE")
 # Use synthetic data associated with the package
 data("data")
 data("Ktruev") # the vectorized lower-triangular part of the precision matrices at all time points
