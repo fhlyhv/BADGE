@@ -23,12 +23,8 @@ Maintainer: \packageMaintainer{BADGE}
 \references{
 Yu, H., & Dauwels, J. (2020). Efficient Variational Bayesian Structure Learning of Dynamic Graphical Models. arXiv preprint arXiv:2009.07703.
 }
-~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R documentation directory ~~
-\keyword{ package }
-\seealso{
-~~ Optional links to other man pages, e.g. ~~
-~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
-}
+
+\keyword{graphical models, structure learning, time varying, variational inference, simulated annleaing}
 \examples{
 # Use synthetic data associated with the package
 data("data")
