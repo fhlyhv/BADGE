@@ -1,0 +1,15 @@
+Package: BADGE
+Type: Package
+Title: Variational Bayesian Stucture Learning of Dynamic Graphical
+        Models
+Version: 1.0
+Date: 2020-12-16
+Author: Hang Yu
+Maintainer: Hang Yu <fhlyhv@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Imports: Rcpp (>= 1.0.1)
+LinkingTo: Rcpp, RcppArmadillo, BH, RcppProgress
+RoxygenNote: 6.1.1
+NeedsCompilation: yes
+Packaged: 2020-12-16 07:30:27 UTC; hugo
