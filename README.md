@@ -1,6 +1,6 @@
 # BADGE (variational BAyesian structure learning of Dynamic Graphical modEls)
 
-This R package implements the BADGE algorithm for time-varying graphical models in the following paper:
+This R package implements the BADGE algorithm for learning time-varying graphical models in the following paper:
 
 H. Yu and J. Dauwels, Efficient Variational Bayesian Structure Learning of Dynamic Graphical Models. arXiv preprint arXiv:2009.07703, 2020.
 
