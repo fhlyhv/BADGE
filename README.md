@@ -4,6 +4,8 @@ This R package implements the BADGE algorithm for learning time-varying graphica
 
 H. Yu and J. Dauwels, Efficient Variational Bayesian Structure Learning of Dynamic Graphical Models. arXiv preprint arXiv:2009.07703, 2020.
 
+This package is only applicable to the time domain.
+
 The Matlab toolbox for learning graphical models from multivariate stationary time series in the frequency domain can be found at https://github.com/fhlyhv/BADGE_frequency.
 
 ## Dependence
