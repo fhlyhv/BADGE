@@ -11,7 +11,7 @@ The Matlab toolbox for learning graphical models from multivariate stationary ti
 ## Dependence
 Please make sure to install the following package dependencies before using R package `BADGE`. 
 ```r
-install.packages(c("Rcpp", "RcppArmadillo", "BH", "RcppProgress", "KernSmooth"))
+install.packages(c("Rcpp", "RcppArmadillo", "BH", "RcppProgress", "KernSmooth", "tictoc", "devtools"))
 ```
 
 ## Installation
