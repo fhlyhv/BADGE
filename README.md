@@ -1,8 +1,8 @@
-# BADGE (variational BAyesian structure learning of Dynamic Graphical modEls)
+# BASS (BAyesian learning of graphical models with Smooth Structural changes, formally named BADGE)
 
-This R package implements the BADGE algorithm for learning time-varying graphical models in the following paper:
+This R package implements the BASS algorithm for learning time-varying graphical models in the following paper:
 
-H. Yu and J. Dauwels, Efficient Variational Bayesian Structure Learning of Dynamic Graphical Models. arXiv preprint arXiv:2009.07703, 2020.
+H. Yu and J. Dauwels, Efficient Variational Bayes Learning of Graphical Models With Smooth Structural Changes, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, pp. 475 - 488, 2023.
 
 This package is only applicable to the time domain.
 
