@@ -2,7 +2,7 @@
 
 This R package implements the BASS algorithm for learning time-varying graphical models in the following paper:
 
-H. Yu and J. Dauwels, Efficient Variational Bayes Learning of Graphical Models With Smooth Structural Changes, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, pp. 475 - 488, 2023.
+H. Yu, S. Wu and J. Dauwels, Efficient Variational Bayes Learning of Graphical Models With Smooth Structural Changes, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, pp. 475 - 488, 2023.
 
 This package is only applicable to the time domain.
 
